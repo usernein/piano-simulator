@@ -1,7 +1,10 @@
 # Piano Simulator 🎹
-Este é um projeto desenvolvido como parte de um desafio em um bootcamp. Ele fornece uma interface interativa que permite ao usuário simular a execução de notas musicais como em um piano real, tanto através do teclado quanto clicando na interface.
+<p>Este é um projeto desenvolvido como parte de um desafio em um bootcamp. Ele fornece uma interface interativa que permite ao usuário simular a execução de notas musicais como em um piano real, tanto através do teclado quanto clicando na interface.
+<p/>
 
-
+<p align="center">
+  <img height="450px" src="./src/images/game-img.png"><br>
+</p>
 
 ### ⚙ Tecnologias Utilizadas
 
@@ -22,9 +25,9 @@ Este é um projeto desenvolvido como parte de um desafio em um bootcamp. Ele for
 3. Divirta-se tocando suas músicas favoritas!
 5. Ou, [Clique aqui] (https://mari4souza.github.io/piano-simulator/).
 
-### 💡 Diferenciais do projeto original
+### 💡 Diferenciais em relação ao projeto original
 
-- Foi adicionado o Favicon para personalização da janela/aba de sites.
+- Foi adicionado o Favicon para personalização da janela/aba do site.
 - Reorganização das notas do piano de forma correta, respeitando os tons e semitons.
 
 ### 📝 Créditos
