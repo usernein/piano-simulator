@@ -3,7 +3,7 @@
 <p/>
 
 <p align="center">
-  <img height="450px" src="./src/images/game-img.png"><br>
+  <img height="430px" src="./src/images/game-img.png"><br>
 </p>
 
 ### ⚙ Tecnologias Utilizadas
